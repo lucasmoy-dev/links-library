@@ -1,4 +1,4 @@
-export const APP_VERSION = 'v1.0.0';
+export const APP_VERSION = 'v1.0.1';
 export const APP_NAME = 'links-library';
 export const STORAGE_PREFIX = APP_NAME + '/';
 export const DRIVE_BACKUP_PATH = '/backup/links-library/';
